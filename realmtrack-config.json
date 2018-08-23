@@ -446,25 +446,25 @@
             "type": "LHZ",
             "addedBy": "fluttar#3859"
         },
-		{
-		    "name": "YufkaLord",
-			"type": "SBC",
-			"addedBy": "Certified Ape#2893"
-		},
-		{
-		    "name": "OSpartanO",
-			"type": "EDZ",
-			"addedBy": "Certified Ape#2893"
-		},
-		{
-		    "name": "MikeMBH",
-			"type": "LHZ",
-			"addedBy": "Certified Ape#2893"
-		},
-		{
-		    "name": "Zacksoccer",
-			"type": "Shatters",
-			"addedBy": "Certified Ape#2893"
+	{
+            "name": "YufkaLord",
+	    "type": "SBC",
+	    "addedBy": "Certified Ape#2893"
+	},
+	{
+            "name": "OSpartanO",
+	    "type": "EDZ",
+	    "addedBy": "Certified Ape#2893"
+        },
+	{
+            "name": "MikeMBH",
+	    "type": "LHZ",
+	    "addedBy": "Certified Ape#2893"
+	},
+	{
+            "name": "Zacksoccer",
+	    "type": "Shatters",
+            "addedBy": "Certified Ape#2893"
         }
     ],
     "trackedItems": [
