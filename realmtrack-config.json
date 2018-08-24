@@ -627,11 +627,6 @@
 	    "addedBy": "ezpz#3308"
         },
 	{
-	    "name": "Brooks",
-            "type": "Trainer",
-	    "addedBy": "ezpz#3308"
-        },
-	{
 	    "name": "Finic",
             "type": "Trainer",
 	    "addedBy": "ezpz#3308"
@@ -642,27 +637,7 @@
 	    "addedBy": "ezpz#3308"
         },
 	{
-	    "name": "DraxLord",
-            "type": "Trainer",
-	    "addedBy": "ezpz#3308"
-        },
-	{
-	    "name": "Eletric",
-            "type": "Trainer",
-	    "addedBy": "ezpz#3308"
-        },
-	{
-	    "name": "Isabre",
-            "type": "Trainer",
-	    "addedBy": "ezpz#3308"
-        },
-	{
 	    "name": "Leecherr",
-            "type": "Trainer",
-	    "addedBy": "ezpz#3308"
-        },
-	{
-	    "name": "Rakun",
             "type": "Trainer",
 	    "addedBy": "ezpz#3308"
         }
