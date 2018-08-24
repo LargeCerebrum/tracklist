@@ -1,0 +1,703 @@
+{
+    "list": [
+        {
+            "name": "Striive",
+            "type": "LB"
+        },
+        {
+            "name": "Reficul",
+            "type": "LB"
+        },
+        {
+            "name": "Paluu",
+            "type": "SBC"
+        },
+        {
+            "name": "IdkLove",
+            "type": "SBC"
+        },
+        {
+            "name": "Tharms",
+            "type": "SBC"
+        },
+        {
+            "name": "Icedemoon",
+            "type": "SBC"
+        },
+        {
+            "name": "Excalibur",
+            "type": "SBC"
+        },
+        {
+            "name": "Maginallll",
+            "type": "SBC"
+        },
+        {
+            "name": "SWEQQER",
+            "type": "SBC"
+        },
+        {
+            "name": "Luca",
+            "type": "SBC"
+        },
+        {
+            "name": "Spekus",
+            "type": "SBC"
+        },
+        {
+            "name": "Lytsu",
+            "type": "SBC"
+        },
+        {
+            "name": "Dash",
+            "type": "SBC"
+        },
+        {
+            "name": "GriffShaw",
+            "type": "SBC"
+        },
+        {
+            "name": "Curse",
+            "type": "SBC"
+        },
+        {
+            "name": "YungPengu",
+            "type": "SBC"
+        },
+        {
+            "name": "Mrunibro",
+            "type": "SBC"
+        },
+        {
+            "name": "MrSkinny",
+            "type": "LB"
+        },
+        {
+            "name": "FaKeUnion",
+            "type": "LB"
+        },
+        {
+            "name": "TSPage",
+            "type": "LB"
+        },
+        {
+            "name": "Curse",
+            "type": "SBC"
+        },
+        {
+            "name": "Lytsu",
+            "type": "SBC"
+        },
+        {
+            "name": "Neuro",
+            "type": "SBC"
+        },
+        {
+            "name": "Dingxyefve",
+            "type": "SBC"
+        },
+        {
+            "name": "Rannar",
+            "type": "Trainer"
+        },
+        {
+            "name": "Cutie",
+            "type": "Trainer"
+        },
+        {
+            "name": "Maxhello",
+            "type": "SBC"
+        },
+        {
+            "name": "VaIi",
+            "type": "Trainer"
+        },
+        {
+            "name": "TheRealXXL",
+            "type": "EDZ"
+        },
+        {
+            "name": "Dazzler",
+            "type": "Trainer"
+        },
+        {
+            "name": "Moloch",
+            "type": "EDZ"
+        },
+        {
+            "name": "Kanye",
+            "type": "Trainer"
+        },
+        {
+            "name": "RagnarLk",
+            "type": "Trainer"
+        },
+        {
+            "name": "Lonely",
+            "type": "Trainer"
+        },
+        {
+            "name": "Xer",
+            "type": "Trainer"
+        },
+        {
+            "name": "Brooks",
+            "type": "Trainer"
+        },
+        {
+            "name": "JonahGod",
+            "type": "EDZ"
+        },
+        {
+            "name": "Outlaw",
+            "type": "Trainer"
+        },
+        {
+            "name": "Watersword",
+            "type": "EDZ"
+        },
+        {
+            "name": "Marvin",
+            "type": "SBC"
+        },
+        {
+            "name": "Bouleau",
+            "type": "EDZ"
+        },
+        {
+            "name": "ItzKieron",
+            "type": "EDZ"
+        },
+        {
+            "name": "TehJulppu",
+            "type": "EDZ"
+        },
+        {
+            "name": "Aroundlord",
+            "type": "EDZ"
+        },
+        {
+            "name": "Jesjesjes",
+            "type": "LHS"
+        },
+        {
+            "name": "Broodman",
+            "type": "LHS"
+        },
+        {
+            "name": "Shengkia",
+            "type": "LHS"
+        },
+        {
+            "name": "IvyLin",
+            "type": "LHS"
+        },
+        {
+            "name": "Zockerguy",
+            "type": "LHS"
+        },
+        {
+            "name": "Eclipse",
+            "type": "LHS"
+        },
+        {
+            "name": "Catbattle",
+            "type": "LHS"
+        },
+        {
+            "name": "DouchQueen",
+            "type": "LHS"
+        },
+        {
+            "name": "SlippyTwit",
+            "type": "LHS"
+        },
+        {
+            "name": "ZepherEX",
+            "type": "LHS"
+        },
+        {
+            "name": "Manjoritan",
+            "type": "LHS"
+        },
+        {
+            "name": "Downdraft",
+            "type": "LHS"
+        },
+        {
+            "name": "XCReePRX",
+            "type": "LHS"
+        },
+        {
+            "name": "PandaPC",
+            "type": "LHS"
+        },
+        {
+            "name": "CallMeRev",
+            "type": "LHS"
+        },
+        {
+            "name": "MrSpikeyZ",
+            "type": "LHS"
+        },
+        {
+            "name": "Fioreen",
+            "type": "LHS"
+        },
+        {
+            "name": "Cucked",
+            "type": "LHS"
+        },
+        {
+            "name": "AWildWoolf",
+            "type": "LHS"
+        },
+        {
+            "name": "Attacksome",
+            "type": "LHS"
+        },
+        {
+            "name": "OGHazsa",
+            "type": "LHS"
+        },
+        {
+            "name": "Lanisaide",
+            "type": "LHS"
+        },
+        {
+            "name": "Evolva",
+            "type": "LHS"
+        },
+        {
+            "name": "SenorUvas",
+            "type": "LHS"
+        },
+        {
+            "name": "Mutza",
+            "type": "LHS"
+        },
+        {
+            "name": "Majoko",
+            "type": "LB"
+        },
+        {
+            "name": "MazeChris",
+            "type": "LB"
+        },
+        {
+            "name": "Thanesir",
+            "type": "LB"
+        },
+        {
+            "name": "MentlFetus",
+            "type": "LB"
+        },
+        {
+            "name": "Acune",
+            "type": "LB"
+        },
+        {
+            "name": "CrazyHead",
+            "type": "LB"
+        },
+        {
+            "name": "Firetrucke",
+            "type": "LB"
+        },
+        {
+            "name": "Klingeris",
+            "type": "LB"
+        },
+        {
+            "name": "Puta",
+            "type": "LB"
+        },
+        {
+            "name": "Bestwest",
+            "type": "LB"
+        },
+        {
+            "name": "Sweetpea",
+            "type": "LHZ"
+        },
+        {
+            "name": "F",
+            "type": "Shatters"
+        },
+        {
+            "name": "SteadO",
+            "type": "Shatters"
+        },
+        {
+            "name": "Lucy",
+            "type": "Shatters"
+        },
+        {
+            "name": "SaintClair",
+            "type": "EDZ"
+        },
+        {
+            "name": "Brownies",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Watersword",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Shoobi",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "CosmicSky",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Mixify",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "MisteRaven",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Kaysie",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Boskila",
+            "type": "EDZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Laydolf",
+            "type": "EDZ",
+            "addedBy": "eug#6671"
+        },
+        {
+            "name": "IRaid",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "TapN",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Serenityds",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Gyron",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Ffja",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "FaKeUnion",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Cynergyou",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "BossTp",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Cubby",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Desotroya",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Fajit",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "HK",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+        {
+            "name": "Syph",
+            "type": "LHZ",
+            "addedBy": "fluttar#3859"
+        },
+	    {
+            "name": "YufkaLord",
+	        "type": "SBC",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "OSpartanO",
+	        "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+        },
+	    {
+            "name": "MikeMBH",
+	        "type": "LHZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Zacksoccer",
+	        "type": "Shatters",
+            "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Keiry",
+	        "type": "Ape",
+	        "addedBy": "Certified Ape#2893"
+        },
+        {
+            "name": "CheesyJub",
+	        "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Jobiebros",
+	        "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Moomoowars",
+	        "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Immamlgpro",
+	        "type": "LHZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Quickstah",
+	        "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Dieyougods",
+	        "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+	    },
+        {
+	        "name": "Rakun",
+            "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Eletric",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Fumes",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Anemis",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Chusto",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Draxlord",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Dusodin",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    }, 
+	    {
+	        "name": "Isabre",
+	        "type": "Trainer",
+            "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Zikelir",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Wyrm",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "SamRiddeli",
+	        "type": "Trainer",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Hypgtrd",
+	        "type": "LHS",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "TwoStone",
+	        "type": "LHS",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "CHADWIN",
+	        "type": "LB",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "DARKFLAMER",
+	        "type": "LB",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+            "name": "Sorichiz",
+	        "type": "LB",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "NeonEnigma",
+	        "type": "LB",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "SirBondo",
+	        "type": "LHS",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Aw",
+	        "type": "SBC",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "Cloud",
+	        "type": "SBC",
+	        "addedBy": "Certified Ape#2893"
+	    },
+	    {
+	        "name": "MeleeOnly",
+            "type": "LB",
+	        "addedBy": "Certified Ape#2893"
+        },
+	    {
+	        "name": "CptAsian",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Often",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Taunters",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Tormenta",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Finic",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Glawi",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Leecherr",
+            "type": "Trainer",
+	        "addedBy": "ezpz#3308"
+        }
+    ],
+    "trackedItems": [
+        {
+            "id": 583,
+            "name": "Vial of Pure Darkness"
+        },
+        {
+            "id": 2991,
+            "name": "Lost Halls Key"
+        },
+        {
+            "id": 3293,
+            "name": "Shatters Key"
+        },
+        {
+            "id": 4252,
+            "name": "The Nest Key"
+        },
+        {
+            "id": 1932,
+            "name": "Parasite Chambers Key"
+        },
+        {
+            "id": 1808,
+            "name": "Tomb of the Ancients Key"
+        },
+        {
+            "id": 29804,
+            "name": "Puppet Master's Encore Key"
+        },
+        {
+            "id": 3284,
+            "name": "Draconis Key"
+        },
+        {
+            "id": 8852,
+            "name": "Shaitan's Key"
+        },
+        {
+            "id": 9042,
+            "name": "Theatre Key",
+            "event": "true"
+        },
+        {
+            "id": 303,
+            "name": "Mountain Temple Key",
+            "event": "true"
+        }
+    ],
+    "blacklistedMembers": [
+        "SoulGamr",
+        "Beginning",
+        "Ziar",
+        "Poptarts",
+        "E"
+    ],
+    "blacklistedGuilds": [
+        "Server Error"
+    ]
+}
