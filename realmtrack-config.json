@@ -153,8 +153,8 @@
             "type": "Trainer"
         },
         {
-            "name": "Watersword",
-            "type": "EDZ"
+            "name": "Eroxx",
+            "type": "SBC"
         },
         {
             "name": "Marvin",
@@ -638,8 +638,33 @@
         },
 	    {
 	        "name": "Leecherr",
-            "type": "Trainer",
+            "type": "LHS",
 	        "addedBy": "ezpz#3308"
+        },
+	    {
+	        "name": "Liinkii",
+            "type": "LHZ",
+	        "addedBy": "Certified Ape#2893"
+        },
+	    {
+	        "name": "MMORPGproI",
+            "type": "LHZ",
+	        "addedBy": "Certified Ape#2893"
+        },
+	    {
+	        "name": "Matizu",
+            "type": "LHZ",
+	        "addedBy": "Certified Ape#2893"
+		},
+	    {
+	        "name": "Piron",
+            "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
+        },
+	    {
+	        "name": "ElenaStark",
+            "type": "EDZ",
+	        "addedBy": "Certified Ape#2893"
         }
     ],
     "trackedItems": [
